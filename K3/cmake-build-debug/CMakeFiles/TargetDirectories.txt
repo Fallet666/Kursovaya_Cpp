@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/Kursovaya_Cpp/K3/cmake-build-debug/CMakeFiles/K3.dir
+/Users/user/CLionProjects/Kursovaya_Cpp/K3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/Kursovaya_Cpp/K3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
